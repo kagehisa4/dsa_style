@@ -1,8 +1,6 @@
-# I will try to solve DSA problems-
-## Use two approaches:
-  1. standard DSA algorithms
-  2. slightly more elegant ones (I'll try to get my hands over those)
+# This repository - collection  of DSA problems relevant to Machine Learning.
 
 ## Algorithms:
   1. Two Sum
   2. Buy & Sell
+  3. Top K
